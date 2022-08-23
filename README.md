@@ -1,7 +1,7 @@
 
 # Bad Calculator Generator
 
-Generates and overly complex calculator program that only uses if statements.
+Generates an overly complex calculator program that only uses if statements.
 
 ## Building
 
